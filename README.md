@@ -6,22 +6,29 @@
 <h2>Funcionalidades</h2>
 <p>
 
-**Digite os nomes que deseja sortear** 
-
-**Apoós terminar de digitar os nomes, clique em sortear** 
+**Sortear nomes para a brincadeira do amigo secreto** 
 </p>
 
-<h2>🎮 Como Usar</h2>
+<h2>Como Utilizar</h2>
 <p>
 
-**Clone este repositório para o seu ambiente local (ou clique no link abaixo):**
+**1 - Clone este repositório para o seu ambiente local (ou clique no link abaixo):**
 
 git clone https://github.com/Rafael-Henrique07/projeto-amigo-secreto.git
 
 https://rafael-henrique07.github.io/projeto-amigo-secreto/
 
 
-**Abra o arquivo index.html em seu navegador de internet.**
+**2 - Abra o arquivo index.html em seu navegador de internet.**
+
+
+**3 - Digite os nomes que deseja para o sorteio**
+
+
+**4 - Clique no botão adicionar para armazenas os nomes**
+
+
+**5 - CLique no botão sortear e veja o resultado**
 </p>
 
 ## 💻 Tecnologias Usadas
